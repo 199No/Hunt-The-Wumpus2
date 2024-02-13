@@ -36,7 +36,7 @@ import java.awt.*;
 import java.awt.desktop.QuitStrategy;
 import javax.swing.*;
 import java.awt.event.*;
-aaaa
+
 //--------------------------- Main Class -----------------------------------\\
 
 class Main{
